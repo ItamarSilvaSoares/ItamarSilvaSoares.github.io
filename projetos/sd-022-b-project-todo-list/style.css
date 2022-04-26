@@ -1,0 +1,19 @@
+h1 {
+  font-size: 3em;
+}
+
+#funcionamento {
+  font-size: 25px;
+}
+
+.selected {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+button {
+  margin: 3px;
+}
